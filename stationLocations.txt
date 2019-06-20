@@ -1,3 +1,5 @@
 Earth
 Moon
 Mars
+Neptune
+Pluto
